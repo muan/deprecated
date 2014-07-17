@@ -1,5 +1,6 @@
 ---
 title: index
+layout: default
 ---
 
 {% for post in site.posts %}
