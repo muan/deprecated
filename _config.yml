@@ -1,6 +1,7 @@
 title:            soevil
 url:              http://evilmuan.github.io
 permalink:        pretty
+markdown:         kramdown
 paginate: 5
 gems:
   - jemoji
