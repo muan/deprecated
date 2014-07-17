@@ -4,5 +4,4 @@ permalink:        pretty
 markdown:         kramdown
 paginate: 5
 gems:
-  - jemoji
   - jekyll-mentions
